@@ -12,3 +12,4 @@ Steps:
 
 0) create subdir, enter subdir, save VsCode workspace
 1) git init, add README.txt
+2) add file to recommend PlatformIO extension to VSCode
